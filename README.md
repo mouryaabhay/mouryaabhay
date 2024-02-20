@@ -18,6 +18,7 @@ ___
     <a href="https://www.figma.com/" target="_blank" rel="noopener"><img alt="Figma" align="center" height="24" src="https://github.com/mouryaabhay/mouryaabhay/assets/158826825/2445fd16-e104-44be-a44e-1194dd27248d" /></a>
     <a href="https://git-scm.com/" target="_blank" rel="noopener"><img alt="Git" align="center" height="24" src="https://github.com/mouryaabhay/mouryaabhay/assets/158826825/af9fd702-6088-4140-84fc-52a109b0bd13" /></a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noopener"><img alt="Visual Studio Code" align="center" height="24" src="https://github.com/mouryaabhay/mouryaabhay/assets/158826825/3734091d-f959-40ff-8001-bb33b1bec189" /></a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noopener"><img alt="Visual Studio Code" align="center" height="24" src="https://github.com/mouryaabhay/mouryaabhay/assets/158826825/a667cce9-981a-4af9-a909-101d877ddb36" /></a>
 </p>
 
 ### 👨🏻‍💻 Programming languages
@@ -27,8 +28,6 @@ ___
 
 ### 🗄 Databases and Cloud Hosting
 <p>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noopener"><img alt="PostgreSQL" align="center" height="24" src="https://github.com/mouryaabhay/mouryaabhay-mediafiles/blob/429edb5db3551198405005418ad41b112590a383/Badges/PostgreSQL%20Icon.svg" /></a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noopener"><img alt="PostgreSQL" align="center" height="24" src="https://github.com/mouryaabhay/mouryaabhay/assets/158826825/7e74acc5-2f58-4469-94a1-341c7f13e276" /></a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noopener"><img alt="PostgreSQL" align="center" height="24" src="https://github.com/mouryaabhay/mouryaabhay/assets/158826825/716683ef-0ec6-4f80-9ecd-0cdb34674fe1" /></a>
 </p>
 
