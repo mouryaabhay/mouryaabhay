@@ -33,7 +33,7 @@ ___
 
 ### 🗄 Databases and Cloud Hosting
 <p>
-    <a><img alt="Postgre SQL" src="https://github.com/mouryaabhay/mouryaabhay-mediafiles/blob/main/Badges/PostgreSQL%20Icon.svg" height="24" /></a>&nbsp;
+    <a href="#" target="_blank"><img align="center" src="https://github.com/mouryaabhay/mouryaabhay-mediafiles/blob/main/Badges/PostgreSQL%20Icon.svg" alt="100011683902531e" height="30"  /></a>
 </p>
 
 ___
