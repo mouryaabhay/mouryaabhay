@@ -22,12 +22,12 @@ ___
 
 ### 👨🏻‍💻 Programming languages
 <p>
-    <a><img alt="C language" src="https://github.com/mouryaabhay/mouryaabhay-mediafiles/blob/main/Badges/C%20Icon.svg" height="24" /></a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noopener"><img alt="C" align="center" height="24" src="https://github.com/mouryaabhay/mouryaabhay/assets/158826825/0e368e27-ac1d-4127-8658-1171748e9d3a" /></a>
 </p>
 
 ### 🗄 Databases and Cloud Hosting
 <p>
-    <a href="#" target="_blank"><img align="center" src="https://github.com/mouryaabhay/mouryaabhay-mediafiles/blob/main/Badges/PostgreSQL%20Icon.svg" alt="100011683902531e" height="24"  /></a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noopener"><img alt="PostgreSQL" align="center" height="24" src="https://github.com/mouryaabhay/mouryaabhay/assets/158826825/4d511586-14ad-4cc2-bc6a-26774683a598" /></a>
 </p>
 
 ___
