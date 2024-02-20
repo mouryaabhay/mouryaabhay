@@ -1,6 +1,4 @@
-<!-- This content will not appear in the rendered Markdown -->
-
-![Mourya Abhay Amarjeet's GitHub Cover Banner](https://github.com/mouryaabhay/mouryaabhay-mediafiles/blob/main/Banners/Mourya_Abhay_Amarjeet_LinkedIn_Cover_Banner.svg)
+<a alt="Mourya Abhay Amarjeet's GitHub Banner" href="#" target="_blank" rel="noopener"><img align="center" src="https://github.com/mouryaabhay/mouryaabhay/assets/158826825/bbc0b8b5-115e-4069-886b-79f57a74144c" /></a>
 ___
 <h1 align = "center">👋🏻 Hi there! I'm Mourya Abhay Amarjeet!</h1>
 I'm a first-year Bachelor of Science student majoring in Computer Science at Nowrosjee Wadia College. Programming is something I approach with a mix of curiosity and eagerness. The intricate layers of software, ranging from hidden backend operations to user interfaces that enrich the user's experience, draw my interest. What fascinates me most is the potential to harness the power of code, transforming complex problems into seamless coded solutions and creating appealing UIs.
@@ -17,9 +15,9 @@ ___
 
 ### 💻 Software and tools
 <p>
-    <a><img alt="Figma" src="https://github.com/mouryaabhay/mouryaabhay-mediafiles/blob/main/Badges/Figma%20Icon.svg" height="24" /></a>
-    <a><img alt="Git" src="https://github.com/mouryaabhay/mouryaabhay-mediafiles/blob/main/Badges/Git%20Icon.svg" height="24" /></a>
-    <a><img alt="Visual Studio Code" src="https://github.com/mouryaabhay/mouryaabhay-mediafiles/blob/main/Badges/VS%20Code%20Icon.svg" height="24" /></a>
+    <a href="https://www.figma.com/" target="_blank" rel="noopener"><img alt="Figma" align="center" height="24" src="https://github.com/mouryaabhay/mouryaabhay/assets/158826825/2445fd16-e104-44be-a44e-1194dd27248d" /></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noopener"><img alt="Git" align="center" height="24" src="https://github.com/mouryaabhay/mouryaabhay/assets/158826825/af9fd702-6088-4140-84fc-52a109b0bd13" /></a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noopener"><img alt="Visual Studio Code" align="center" height="24" src="https://github.com/mouryaabhay/mouryaabhay/assets/158826825/3734091d-f959-40ff-8001-bb33b1bec189" /></a>
 </p>
 
 ### 👨🏻‍💻 Programming languages
