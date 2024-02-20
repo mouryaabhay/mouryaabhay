@@ -18,22 +18,18 @@ ___
 ### 💻 Software and tools
 <p>
     <a><img alt="Figma" src="https://github.com/mouryaabhay/mouryaabhay-mediafiles/blob/main/Badges/Figma%20Icon.svg" height="24" /></a>
-    &nbsp;
     <a><img alt="Git" src="https://github.com/mouryaabhay/mouryaabhay-mediafiles/blob/main/Badges/Git%20Icon.svg" height="24" /></a>
-    &nbsp;
     <a><img alt="Visual Studio Code" src="https://github.com/mouryaabhay/mouryaabhay-mediafiles/blob/main/Badges/VS%20Code%20Icon.svg" height="24" /></a>
-    &nbsp;
 </p>
 
 ### 👨🏻‍💻 Programming languages
 <p>
     <a><img alt="C language" src="https://github.com/mouryaabhay/mouryaabhay-mediafiles/blob/main/Badges/C%20Icon.svg" height="24" /></a>
-    &nbsp;
 </p>
 
 ### 🗄 Databases and Cloud Hosting
 <p>
-    <a href="#" target="_blank"><img align="center" src="https://github.com/mouryaabhay/mouryaabhay-mediafiles/blob/main/Badges/PostgreSQL%20Icon.svg" alt="100011683902531e" height="30"  /></a>
+    <a href="#" target="_blank"><img align="center" src="https://github.com/mouryaabhay/mouryaabhay-mediafiles/blob/main/Badges/PostgreSQL%20Icon.svg" alt="100011683902531e" height="24"  /></a>
 </p>
 
 ___
