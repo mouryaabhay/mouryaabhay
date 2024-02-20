@@ -28,6 +28,7 @@ ___
 ### 🗄 Databases and Cloud Hosting
 <p>
     <a href="https://www.postgresql.org/" target="_blank" rel="noopener"><img alt="PostgreSQL" align="center" height="24" src="https://github.com/mouryaabhay/mouryaabhay-mediafiles/blob/429edb5db3551198405005418ad41b112590a383/Badges/PostgreSQL%20Icon.svg" /></a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noopener"><img alt="PostgreSQL" align="center" height="24" src="https://github.com/mouryaabhay/mouryaabhay/assets/158826825/7e74acc5-2f58-4469-94a1-341c7f13e276" /></a>
 </p>
 
 ___
