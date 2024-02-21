@@ -1,4 +1,4 @@
-<a alt="Mourya Abhay Amarjeet's GitHub Banner" href="#" target="_blank" rel="noopener"><img align="center" src="https://github.com/mouryaabhay/mouryaabhay/assets/158826825/bbc0b8b5-115e-4069-886b-79f57a74144c" /></a>
+<a alt="Mourya Abhay Amarjeet's GitHub Banner" target="_blank" rel="noopener"><img align="center" src="https://github.com/mouryaabhay/mouryaabhay/assets/158826825/bbc0b8b5-115e-4069-886b-79f57a74144c" /></a>
 ___
 <h1 align = "center">👋🏻 Hi there! I'm Mourya Abhay Amarjeet!</h1>
 I'm a first-year Bachelor of Science student majoring in Computer Science at Nowrosjee Wadia College. Programming is something I approach with a mix of curiosity and eagerness. The intricate layers of software, ranging from hidden backend operations to user interfaces that enrich the user's experience, draw my interest. What fascinates me most is the potential to harness the power of code, transforming complex problems into seamless coded solutions and creating appealing UIs.
