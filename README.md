@@ -6,12 +6,12 @@
 ---
 <!-- Bio -->
 <h1 align = "center">👋🏻 Hi there! I'm Mourya Abhay Amarjeet!</h1>
-I'm a first-year Bachelor of Science student majoring in Computer Science at Nowrosjee Wadia College. Programming is something I approach with a mix of curiosity and eagerness. The intricate layers of software, ranging from hidden backend operations to user interfaces that enrich the user's experience, draw my interest. What fascinates me most is the potential to harness the power of code, transforming complex problems into seamless coded solutions and creating appealing UIs.
+I'm a second-year Bachelor of Science student majoring in Computer Science at Nowrosjee Wadia College. Programming is something I approach with a mix of curiosity and eagerness. The intricate layers of software, ranging from hidden backend operations to user interfaces that enrich the user's experience, draw my interest. What fascinates me most is the potential to harness the power of code, transforming complex problems into seamless coded solutions and creating appealing UIs.
 
 ### Talking about Personal Stuff:
 - 🌱 I'm currently learning:
-  - C Language
-  - PostgreSQL
+  - Javascript
+  - CSS
   - Figma
 - 🌏 I'm passionate about building communities, and that's what I do at [Creation Guide](https://discord.com/invite/E4KRWJW49B) as Community Leader. Additionally, at [Omni Labs](https://discord.com/invite/9NW48TwRvB), I assist in managing the community as a Community Admin.
 
