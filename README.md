@@ -10,11 +10,12 @@ I'm a second-year Bachelor of Science student majoring in Computer Science at No
 
 ### Talking about Personal Stuff:
 - 🌱 I'm currently learning:
+  - Data Structures and Algorithms
   - CSS
   - Figma
 - 📝 Next in list to be learned:
   - PHP
-  - Kotlin
+  - JavaScript
 - 🌏 I'm passionate about building communities, and that's what I do at [Creation Guide](https://discord.com/invite/E4KRWJW49B) as Community Leader. Additionally, at [Omni Labs](https://discord.com/invite/9NW48TwRvB), I assist in managing the community as a Community Admin.
 
 ---
@@ -80,33 +81,12 @@ I'm a second-year Bachelor of Science student majoring in Computer Science at No
             height="25"
             src="https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=ffffff"
     /></a>
-    <a href="https://tailwindcss.com" target="_blank" rel="noopener">
-        <img
-            alt="Tailwind CSS"
-            align="center"
-            height="25"
-            src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?logo=tailwindcss&logoColor=ffffff"
-    /></a>
     <a href="https://www.javascript.com" target="_blank" rel="noopener">
         <img
             alt="JavaScript"
             align="center"
             height="25"
             src="https://img.shields.io/badge/JavaScript-F7E025?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iNTY2IiBoZWlnaHQ9IjY0MiIgdmlld0JveD0iMCAwIDU2NiA2NDIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0wLjQ1MDA0NyAwLjQ3NDk3Nkw1MS44NzUgNTc3LjNMMjgyLjY1IDY0MS4zNzVMNTE0LjA1IDU3Ny4yMjVMNTY1LjUyNSAwLjQ5OTk4SDAuNDI1MDQ5TDAuNDUwMDQ3IDAuNDc0OTc2Wk0yMTMuNjUgMTQ5Ljg1TDIwMy40MjUgMjYwLjg3NUw0NDUuMiAyNjAuOUw0NDMuNDc1IDI3OS45TDQyNi44NSA0NjYuMTVMNDI1LjggNDc4LjFMMjgwLjcgNTE4LjMyNUwxMzUuOCA0NzguMUwxMjUuOSAzNjcuMDI1SDE5Ni45TDIwMS45NSA0MjMuNDVMMjgwLjggNDQ0LjdMMzU5LjcgNDIzLjRMMzY3LjkgMzMxLjY1TDEyNi4xMjUgMzMxLjYyNUwxMjcuODUgMzEyLjYyNUwxNDQuNDc1IDEyNi4zNzVMMTQ5LjcgNzQuMjI1SDQzMS44NzVMNDM1LjE1IDExNC4xNzVMNDQ1LjIyNSAyMjUuNUgzNzQuMkwzNjcuNjUgMTUyLjQ1TDI5NS40MjUgMTQ4LjFIMjgyLjU1VjE0OEwyMTMuNjc1IDE0OS44NUgyMTMuNjVaIiBmaWxsPSIjNDQ0NDQ0Ii8%2BCjwvc3ZnPgo%3D"
-    /></a>
-    <a href="https://nodejs.org" target="_blank" rel="noopener">
-        <img
-            alt="Node.js"
-            align="center"
-            height="25"
-            src="https://img.shields.io/badge/Node.js-%235FA04E?logo=nodedotjs&logoColor=ffffff"
-    /></a>
-    <a href="https://kotlinlang.org" target="_blank" rel="noopener">
-        <img
-            alt="Kotlin"
-            align="center"
-            height="25"
-            src="https://img.shields.io/badge/Kotlin-%237F52FF?logo=kotlin&logoColor=ffffff"
     /></a>
 </p>
 
