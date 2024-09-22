@@ -1,21 +1,21 @@
 <!-- Banner -->
 <a href="#" target="_blank" rel="noopener">
-      <img alt="Mourya Abhay Amarjeet's GitHub Banner" align="center" src="https://github.com/mouryaabhay/mouryaabhay/assets/158826825/bbc0b8b5-115e-4069-886b-79f57a74144c">
+      <img alt="Mourya Abhay Amarjeet's GitHub Banner" align="center" src="https://github.com/user-attachments/assets/cd868d2f-0701-467a-8683-449adbaf1a9b">
 </a>
 
 ---
 <!-- Bio -->
 <h1 align = "center">👋🏻 Hi there! I'm Mourya Abhay Amarjeet!</h1>
-I'm a second-year Bachelor of Science student majoring in Computer Science at Nowrosjee Wadia College. Programming is something I approach with a mix of curiosity and eagerness. The intricate layers of software, ranging from hidden backend operations to user interfaces that enrich the user's experience, draw my interest. What fascinates me most is the potential to harness the power of code, transforming complex problems into seamless coded solutions and creating appealing UIs.
+I'm a 2nd year Bachelor of Science student majoring in Computer Science. Programming is something I approach with a mix of curiosity and eagerness. The intricate layers of software, ranging from hidden backend operations to user interfaces that enrich the user's experience, draw my interest. What fascinates me most is the potential to harness the power of code, transforming complex problems into seamless coded solutions and creating appealing UIs.
 
 ### Talking about Personal Stuff:
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms
-  - CSS
+  - Javascript
 - 📝 Next in list to be learned:
   - PHP
-  - JavaScript
-- 🌏 I'm passionate about building communities, and that's what I do at [Creation Guide](https://discord.com/invite/E4KRWJW49B) as Community Leader. Additionally, at [Omni Labs](https://discord.com/invite/9NW48TwRvB), I assist in managing the community as a Community Admin.
+  - Nodejs
+- 🌏 I'm passionate about programming & managing communities, and that's what I do at [Quack To Code](https://discord.gg/ekRDrTEES5) & [Creation Guide](https://discord.com/invite/E4KRWJW49B). Additionally, at [Omni Labs](https://discord.com/invite/9NW48TwRvB), I assist in managing the community as a Admin.
 
 ---
 <!-- Badges -->
