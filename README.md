@@ -6,20 +6,23 @@
 ---
 <!-- Bio -->
 <h1 align = "center">👋🏻 Hi there! I'm Mourya Abhay Amarjeet!</h1>
-I'm a 2nd year Bachelor of Science student majoring in Computer Science. Programming is something I approach with a mix of curiosity and eagerness. The intricate layers of software, ranging from hidden backend operations to user interfaces that enrich the user's experience, draw my interest. What fascinates me most is the potential to harness the power of code, transforming complex problems into seamless coded solutions and creating appealing UIs.
+<p align = "center">As a 2nd year Bachelor of Science student majoring in Computer Science, I approach programming with a blend of curiosity and eagerness. The intricate layers of software—from the hidden backend operations to the engaging user interfaces—captivate me. I’m particularly fascinated by the potential of code to transform complex problems into seamless solutions while crafting appealing user experiences. Alongside my programming passion, I also love managing communities, where I can connect with others who share this enthusiasm for technology and collaboration.</p>
 
-### Talking about Personal Stuff:
-- 🌱 I'm currently learning:
-  - Data Structures and Algorithms
-  - Javascript
-- 📝 Next in list to be learned:
-  - PHP
-  - Nodejs
-- 🌏 I'm passionate about programming & managing communities, and that's what I do at [Quack To Code](https://discord.gg/ekRDrTEES5) & [Creation Guide](https://discord.com/invite/E4KRWJW49B). Additionally, at [Omni Labs](https://discord.com/invite/9NW48TwRvB), I assist in managing the community as a Admin.
+---
+
+## 🏕️ Communities I Manage:
+- Owner:
+  - [Quack To Code](https://discord.gg/ekRDrTEES5)
+    > 👨🏻‍💻 Casual yet productive community of Programmers! Code in real-time with others via cam, screenshare or chat!
+  - [Creation Guide](https://discord.com/invite/E4KRWJW49B)
+    > 👷🏻‍♂️ Reimagine community building with us: United by passion, fueled by innovation and expertise!
+- Admin:
+  - [Omni Labs](https://discord.com/invite/9NW48TwRvB)
+    > 🔮 Building the ultimate Discord app! Manage, engage, and grow your community to new heights.
 
 ---
 <!-- Badges -->
-## ⚙ Studied the following tools
+## 👨🏻‍💻 Technologies I've Worked With!
 
 ### 💻 Software and tools
 <p>
