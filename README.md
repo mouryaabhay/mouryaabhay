@@ -40,7 +40,7 @@ Driven by curiosity, creativity, and a mission to build for the masses.
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [Aven - The Revival of Chat](https://discord.com/invite/3HBverKB6x) | A scalable Discord bot system featuring dynamic role mechanics that reward user engagement through event-driven interactions. | Node.js, Discord.js, MongoDB |
+| [Aven - The Revival of Chat](https://github.com/mouryaabhay/Aven-The-Revival-of-Chat/) | A scalable Discord bot system featuring dynamic role mechanics that reward user engagement through event-driven interactions. | Node.js, Discord.js, MongoDB |
 
 
 ---
