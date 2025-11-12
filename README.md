@@ -41,6 +41,7 @@ Driven by curiosity, creativity, and a mission to build for the masses.
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [Aven - The Revival of Chat](https://github.com/mouryaabhay/Aven-The-Revival-of-Chat/) | A scalable Discord bot system featuring dynamic role mechanics that reward user engagement through event-driven interactions. | Node.js, Discord.js, MongoDB |
+| [Handpicked](https://github.com/mouryaabhay/handpicked) | A curated collection of frontend resources and tools built to save developers time by gathering high-quality, hand-selected libraries, design kits, and learning materials — all in one place. | React, Vite, ESLint, Prettier, Vercel |
 
 
 ---
