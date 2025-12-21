@@ -105,11 +105,3 @@ Driven by curiosity, creativity, and a mission to build for the masses.
     />
   </a>
 </details>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mouryaabhay&theme=onedark&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Achievements">
-</p>
