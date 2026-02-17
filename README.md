@@ -55,10 +55,6 @@ Driven by curiosity, creativity, and a mission to build for the masses.
 
   > 👷🏻‍♂️ Reimagining community building — united by passion, driven by innovation and expertise.
 
-* [**Aven - The Revival of Chat**](https://discord.com/invite/3HBverKB6x)
-
-  > 👻 Where silence has consequences. The official Aven server — get help, report issues, or experience the chaos firsthand.
-
 ---
 
 ## 🧠 Soft Skills
@@ -72,36 +68,10 @@ Driven by curiosity, creativity, and a mission to build for the masses.
 
 ## 📊 Insights into My Coding Journey
 
-<details>
-  <summary><b>📈 GitHub Stats</b></summary>
-  <br />
-  <a href="#" target="_blank" rel="noopener">
-    <img
-      alt="Mourya Abhay Amarjeet's GitHub Stats"
-      height="200"
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=mouryaabhay&theme=dark&bg_color=0D1117&border_radius=10&border_color=3F99FA&hide_title=true&show_icons=true&icon_color=F15348&text_color=FEFEFE&ring_color=78FF98"
-    />
-  </a>
-</details>
-
-<details>
+<!-- <details> -->
   <summary><b>🔥 GitHub Streaks</b></summary>
   <br />
   <a href="#" target="_blank" rel="noopener">
     <img src="https://streak-stats.demolab.com?user=mouryaabhay&theme=github-dark&border_radius=10&border=3F99FA&stroke=3F99FA&fire=F15348&currStreakNum=E1ECFE&sideNums=E1ECFE" alt="GitHub Streak" />
   </a>
-</details>
-
-<details>
-  <summary><b>🗂️ Top Languages</b></summary>
-  <br />
-  <a href="#" target="_blank" rel="noopener">
-    <img
-      alt="Mourya Abhay Amarjeet's Top Languages"
-      height="200"
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=mouryaabhay&size_weight=0.5&count_weight=0.5&langs_count=8&theme=dark&layout=compact&border_radius=10&border_color=3F99FA&bg_color=0D1117&hide_title=true&text_color=FEFEFE"
-    />
-  </a>
-</details>
+<!-- </details> -->
