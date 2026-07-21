@@ -36,7 +36,7 @@ Bridges Google Forms submissions to Discord channels via webhooks and Google App
 
 Auto-detects webhook type (forum vs standard channel), handles Discord embed limits, supports multi-section forms with configurable field mapping, auto-truncates long responses, and applies forum tags. Actively maintained across versioned releases and updated based on real user requests from the Discord community.
 
-⭐ **8 stars** · Used by Discord communities · Versioned releases
+[Live ↗](https://mouryaabhay.github.io/Google-Form-Response-To-Discord/) | [Tutorial](https://youtu.be/_qh-aKK_Fvk)
 
 ---
 
