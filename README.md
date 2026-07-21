@@ -58,23 +58,13 @@ Built when my bot host shut down — adapted instead of stopping.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mouryaabhay&theme=github-dark&border_radius=6&border=c79050&stroke=c79050&fire=c79050&currStreakNum=E1ECFE&sideNums=E1ECFE)](https://github.com/mouryaabhay)
-
-</div>
-
----
-
 ## 🏕️ Communities
 
 **[Overthinkers Club](https://discord.com/invite/9QcrUN3dUf)**
 
 For anyone who overthinks everything — and builds anyway. Share your work, get real feedback, get roasted, and finally ship the thing. Whatever you make, you belong here.
 
-Every Sunday we roast each other's work — bring something or just watch the chaos.
+Every Sunday or anytimes community members gather, we roast each other's work — bring something or just watch the chaos.
 
 ---
 
